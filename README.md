@@ -1,8 +1,11 @@
 ## OPENS PROJECT IN BROWSER
 
-#cd ~/Documents/biomedical-informatics/project1
-#source venv/bin/activate
-#jupyter notebook
+cd ~/Documents/biomedical-informatics/project1
+source venv/bin/activate
+jupyter notebook
+pip3 install pandas numpy matplotlib seaborn scipy
+
+
 ### 1. Open Terminal (Cmd + Space → "terminal" → Enter)
 
 ### 2. Go to project folder
